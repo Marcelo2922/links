@@ -7,6 +7,10 @@ h1{
 body{
     background-color: rgb(49, 47, 47);
     color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 a{
      background-color: rgb(102, 98, 98);
